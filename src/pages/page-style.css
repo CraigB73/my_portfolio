@@ -1,0 +1,41 @@
+.bg-homepage {
+   display: block;
+   height: 100svh;
+   background-image: radial-gradient( #7F8C8D , #000000  );  
+}
+
+h1, h2, P {
+   color: white;
+}
+
+.heading-wrapper {
+   display: flex;
+   flex-direction: column;
+   text-align: left;
+   
+}
+
+h1 {
+   font-family: 'Whisper', sans-serif;
+   font-size: 62px;
+   letter-spacing: 5px;
+   margin-bottom: -85px;
+   padding-left: 20px;
+}
+
+.lastname {
+   font-family:'Roboto', sans-serif;
+   font-size: 78px; 
+   font-weigth: 400;
+   letter-spacing: 2px; 
+   padding-left: 14px;
+}
+
+p {
+   font-family:'Roboto', sans-serif;
+   font-weight: 300;
+   letter-spacing: 3.7px;
+   margin-top: -80px;
+   padding-left: 18px;
+}
+
